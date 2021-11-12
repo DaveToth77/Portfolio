@@ -15,16 +15,16 @@ const Technologies = () =>  (
   <List>
     <ListItem>
       <DiReact size='3rem' />
-      <listContainer>
+      <ListContainer>
         <ListTitle>Front-End</ListTitle>
-        <ListParagraph></ListParagraph>
+        <ListParagraph>
           Experience with <br />
           React.js <br />
           Javascript <br />
           HTML <br />
           CSS <br />
         </ListParagraph>
-      </listContainer>
+      </ListContainer>
     </ListItem>
     <ListItem>
       <DiFirebase size='3rem' />
