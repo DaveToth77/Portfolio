@@ -6,10 +6,30 @@ import { CompanyContainer, FooterWrapper, LinkColumn, LinkItem, LinkList, LinkTi
 
 const Footer = () => {
   return (
-    <div>
-      Footer
-    </div>
-  );
+<FooterWrapper>
+  <LinkList>
+    <LinkColumn>
+      <LinkTitle>Call</LinkTitle>
+      <LinkItem href="860-303-4318">860-303-4318</LinkItem>
+    </LinkColumn>
+    <LinkColumn>
+      <LinkTitle>Email</LinkTitle>
+      <LinkItem href="mailto:dtoth77@gmail.com">dtoth77@gmail.com</LinkItem>
+    </LinkColumn>
+    <linkColumn>
+    <br />
+      <SocialIcons href='https://github.com/DaveToth77'>
+      <AiFillGithub size='3rem'/>
+      </SocialIcons>
+    </linkColumn>
+    <linkColumn>
+    <br />
+      <SocialIcons href='www.linkedin.com/in/davidtoth77'>
+      <AiFillLinkedin size='3rem'/>
+    </SocialIcons>
+    </linkColumn>
+  </LinkList>
+</FooterWrapper>);
 };
 
 export default Footer;
