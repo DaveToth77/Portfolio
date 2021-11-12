@@ -25,11 +25,17 @@ const Header = () =>  (
         <NavLink>Technologies</NavLink>
       </Link>
     </li>
-    <li>
+    {/* <li>
       <Link href='#about'>
         <NavLink>About</NavLink>
       </Link>
+    </li> */}
+    <li>
+      <Link href='./images/DToth Resume.pdf'>
+        <NavLink>Resume</NavLink>
+      </Link>
     </li>
+
   </Div2>
   <Div3>
     <SocialIcons href='https://github.com/DaveToth77'>
