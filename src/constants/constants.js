@@ -22,8 +22,8 @@ export const projects = [
     description: "Group Project- Emprise is a browser based flight search app. When you select your origin, destination, start date and end date, the app provides you with the lowest fare available.",
       image: '/images/emprise.png',
       tags: ['HTML', 'CSS', 'Javascript', 'JQuery'],
-    source: 'https://github.com/codemasterdev/Project-1',
-    visit: 'https://codemasterdev.github.io/Project-1/',
+    source: 'https://codemasterdev.github.io/Project-1/',
+    visit: 'https://github.com/codemasterdev/Project-1',
     id: 2,
   },
   {
@@ -31,8 +31,8 @@ export const projects = [
     description: "A browser based calendar application that allows a user to save events for each hour of the day. Each time block is color-coded to indicate whether it is in the past, present, or future based on the current time.",
     image: '/images/weather.png',
     tags: ['HTML', 'CSS', 'Javascript', 'JQuery', 'Bootstrap'],
-    source: 'https://github.com/DaveToth77/weather-dashboard',
-    visit: 'https://davetoth77.github.io/weather-dashboard/',
+    visit: 'https://github.com/DaveToth77/weather-dashboard',
+    source: 'https://davetoth77.github.io/weather-dashboard/',
     id: 3,
   },
 ];

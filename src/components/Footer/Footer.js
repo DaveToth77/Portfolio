@@ -24,7 +24,7 @@ const Footer = () => {
     </linkColumn>
     <linkColumn>
     <br />
-      <SocialIcons href='www.linkedin.com/in/davidtoth77'>
+      <SocialIcons href='https://linkedin.com/in/davidtoth77'>
       <AiFillLinkedin size='3rem'/>
     </SocialIcons>
     </linkColumn>
