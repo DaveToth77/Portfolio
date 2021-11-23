@@ -23,6 +23,7 @@ const Technologies = () =>  (
           Javascript <br />
           HTML <br />
           CSS <br />
+          Bootstrap<br />
         </ListParagraph>
       </ListContainer>
     </ListItem>
@@ -35,6 +36,8 @@ const Technologies = () =>  (
           Node.js <br />
           MySql <br />
           Javascript <br />
+          MongoDB <br />
+          Express <br />
 
         </ListParagraph>
       </listContainer>
