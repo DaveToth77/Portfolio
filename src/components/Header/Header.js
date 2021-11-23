@@ -31,7 +31,7 @@ const Header = () =>  (
       </Link>
     </li> */}
     <li>
-      <Link href='./images/DToth Resume.pdf'>
+      <Link href='./images/DToth-resume.pdf'>
         <NavLink>Resume</NavLink>
       </Link>
     </li>
