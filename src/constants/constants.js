@@ -6,7 +6,7 @@ export const projects = [
     image: "/images/deep-thoughts.png",
     tags: ["Javascript", "mongoDB", "React", "GraphQL", "NodeJS", "Heroku"],
     source: "https://github.com/DaveToth77/deep-thoughts",
-    visit: "https://github.com/DaveToth77/deep-thoughts",
+    visit: "https://infinite-brook-33467.herokuapp.com/",
     id: 0,
   },
   {
