@@ -5,8 +5,8 @@ export const projects = [
       "MERN stack social network SPA utilizing react router, GraphQL and JWT (JSON Web Token) authentication. The backend application is deployed live @heroku utilizing MongoDB Atlas.",
     image: "/images/deep-thoughts.png",
     tags: ["mongoDB", "React", "GraphQL", "NodeJS"],
-    source: "https://github.com/DaveToth77/deep-thoughts",
-    visit: "https://infinite-brook-33467.herokuapp.com/",
+    source: "https://infinite-brook-33467.herokuapp.com/",
+    visit: "https://github.com/DaveToth77/deep-thoughts",
     id: 0,
   },
   {
