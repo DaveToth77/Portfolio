@@ -25,8 +25,8 @@ export const projects = [
       "Group Project- A MERNG social volunteering app. Host, attend, discuss, and later verify volunteer events and good deeds, earning Kindly Points as you help.",
     image: "/images/kindly.png",
     tags: ["Javascript", "React", "GraphQL", "MongoDB", "TailwindCSS"],
-    source: "https://github.com/brentocracy/kindly",
-    visit: "https://kindly-volunteer.herokuapp.com/",
+    source: "https://kindly-volunteer.herokuapp.com/",
+    visit: "https://github.com/brentocracy/kindly",
     id: 2,
   },
   {
