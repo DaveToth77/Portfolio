@@ -20,13 +20,13 @@ export const projects = [
     id: 1,
   },
   {
-    title: "Emprise",
+    title: "Kindly",
     description:
-      "Group Project- Emprise is a browser based flight search app. When you select your origin, destination, start date and end date, the app provides you with the lowest fare available.",
-    image: "/images/emprise.png",
-    tags: ["HTML", "CSS", "Javascript", "JQuery"],
-    source: "https://codemasterdev.github.io/Project-1/",
-    visit: "https://github.com/codemasterdev/Project-1",
+      "Group Project- A MERNG social volunteering app. Host, attend, discuss, and later verify volunteer events and good deeds, earning Kindly Points as you help.",
+    image: "/images/kindly.png",
+    tags: ["Javascript", "React", "GraphQL", "MongoDB", "TailwindCSS"],
+    source: "https://github.com/brentocracy/kindly",
+    visit: "https://kindly-volunteer.herokuapp.com/",
     id: 2,
   },
   {
