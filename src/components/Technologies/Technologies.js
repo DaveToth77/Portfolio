@@ -1,7 +1,18 @@
-import React from 'react';
-import { DiFirebase, DiReact, DiZend } from 'react-icons/di';
-import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
-import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
+import React from "react";
+import { DiFirebase, DiReact, DiZend } from "react-icons/di";
+import {
+  Section,
+  SectionDivider,
+  SectionText,
+  SectionTitle,
+} from "../../styles/GlobalComponents";
+import {
+  List,
+  ListContainer,
+  ListItem,
+  ListParagraph,
+  ListTitle,
+} from "./TechnologiesStyles";
 
 const Technologies = () => (
   <Section id="tech">
@@ -18,11 +29,12 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
+            Angular <br />
             React.js <br />
             Javascript <br />
+            Typescript <br />
             HTML <br />
             CSS <br />
-            Styled Components <br />
             Bootstrap
             <br />
           </ListParagraph>
@@ -37,6 +49,8 @@ const Technologies = () => (
             GraphQL <br />
             MySql <br />
             Javascript <br />
+            Typescript
+            <br />
             MongoDB <br />
             Express <br />
           </ListParagraph>
